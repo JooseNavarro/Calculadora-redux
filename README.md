@@ -17,6 +17,8 @@ yarn install or npm install
 ```
 
 ## Ejecutar
+
+ Leer sobre [Process Argv](https://nodejs.org/docs/latest/api/process.html#process_process_argv) en nodejs.
 ```
 * Operaciones: 
   - suma
@@ -25,8 +27,6 @@ yarn install or npm install
   - division
 
  > node index.js operacion parametro_uno  parametro_dos
-
- Leer sobre [Process Argv ](https://nodejs.org/docs/latest/api/process.html#process_process_argv) en nodejs.
 
 * Ejemplos:
 
